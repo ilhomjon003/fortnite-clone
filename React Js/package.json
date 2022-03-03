@@ -1,0 +1,15 @@
+{
+  "name": "dars1",
+  "version": "1.0.0",
+  "description": "first lesson in node jsda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilhomjon",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "number-brm": "^1.4.0"
+  }
+}
